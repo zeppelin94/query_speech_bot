@@ -1,0 +1,6 @@
+chatterbot
+textblob
+sklearn
+gtts
+speech_recognition
+mutagen

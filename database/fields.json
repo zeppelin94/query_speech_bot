@@ -1,0 +1,17 @@
+{
+	"database":
+		{
+			"date": [
+				"join date",
+				"joining date", 
+				"when join",
+				"when",
+                "what date",
+                "when did"
+			],
+			"name": [
+				"name",
+				"full name"
+			]
+		}
+}

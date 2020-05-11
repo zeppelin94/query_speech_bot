@@ -1,0 +1,54 @@
+{
+    "database": [
+        {
+            "date": " 20 january 2009",
+            "name": [
+                "barack",
+                "obama"
+            ]
+        },
+        {
+            "date": " 20 january 2017",
+            "name": [
+                "donald",
+                "trump"
+            ]
+        },
+        {
+            "date": "20 january 2001",
+            "name": [
+                "george",
+                "bush"
+            ]
+        },
+        {
+            "date": " 20 january 1993",
+            "name": [
+                "bill",
+                "clinton"
+            ]
+        },
+        {
+            "date": "4 march 1909",
+            "name" : [
+                "william", 
+                "howard",
+                "taft"
+            ]
+        },
+        {
+            "date": "4 march 1897",
+            "name" : [
+                "william", 
+                "mckinley"
+            ]
+        },
+        {
+            "date": "20 january 1981",
+            "name": [
+                "ronald",
+                "reagan"
+            ]
+        }
+    ]
+}

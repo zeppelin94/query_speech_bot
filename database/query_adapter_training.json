@@ -1,0 +1,39 @@
+{
+	"data":
+	{
+		"1":
+		[
+			"what is the joining date for name ?",
+			"when did name join ?",
+			"what is the join date of name ?",
+			"give me the joining date of name",
+			"what is the join-date for name?",
+			"tell me the joining date of name ?",
+			"tell me the joining date for name ?",
+			"on what date did name join ?",
+			"when did name start working ?",
+			"when did name join our company ?",
+			"what is the joining date for name in our company ?",
+			"how long is name working here ?",
+			"when did name start working here ?",
+			"can you give me the joining date for name ?",
+            "try name",
+            "how about name",
+            "name"
+		],
+		"0":
+		[
+			"Hello",
+			"Hey",
+			"Hi!",
+			"How are you?",
+			"Thanks, that's all",
+			"No worrries",
+			"Hello, how are you?",
+			"How do you do?",
+			"No i don't know the full name"
+		]
+	}
+}
+
+
